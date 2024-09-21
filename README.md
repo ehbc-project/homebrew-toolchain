@@ -1,11 +1,11 @@
 # Homebrew EHBC Toolchain Formulae
 Homebrew formulae for installing EHBC toolchain
 
-## Formulae list
+## Formulae List
 
-- m68k-unknkwn-elf-binutils
-- m68k-unknkwn-elf-gcc@13
-- m68k-unknkwn-elf-gdb
+- m68k-unknown-elf-binutils
+- m68k-unknown-elf-gcc@13
+- m68k-unknown-elf-gdb
 
 ## How to Install Formulae
 
