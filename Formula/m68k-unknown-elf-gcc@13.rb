@@ -22,8 +22,8 @@ class M68kUnknownElfGccAT13 < Formula
             "--target=m68k-unknown-elf",
             "--enable-languages=c,c++",
             "--disable-nls",
-            "--with-as=#{Formula["m68k-unknown-elf-binutils"].opt_bin}/m68k-elf-as",
-            "--with-ld=#{Formula["m68k-unknown-elf-binutils"].opt_bin}/m68k-elf-ld",
+            "--with-as=#{Formula["m68k-unknown-elf-binutils"].opt_bin}/m68k-unknown-elf-as",
+            "--with-ld=#{Formula["m68k-unknown-elf-binutils"].opt_bin}/m68k-unknown-elf-ld",
             "--prefix=#{prefix}"
         ]
 
