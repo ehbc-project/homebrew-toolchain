@@ -1,4 +1,4 @@
-class M68kUnknownElfBinutils < Formula
+class M68kUnknownElfGdb < Formula
     desc "GNU Debugger (cross, m68k)"
     homepage "https://www.gnu.org/software/gdb/"
     url "https://ftp.gnu.org/gnu/gdb/gdb-15.1.tar.gz"
