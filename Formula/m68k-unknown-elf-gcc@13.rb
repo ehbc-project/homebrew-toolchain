@@ -1,4 +1,4 @@
-class M68kUnknownElfGcc13 < Formula
+class M68kUnknownElfGccAT13 < Formula
     desc "GNU Compiler Collection 13 (cross, m68k)"
     homepage "https://gcc.gnu.org"
     url "https://mirrorservice.org/sites/sourceware.org/pub/gcc/releases/gcc-13.3.0/gcc-13.3.0.tar.gz"
